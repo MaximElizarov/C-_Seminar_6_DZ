@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dop_treygolnik/1.0.0": {
+        "runtime": {
+          "Dop_treygolnik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dop_treygolnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.csproj.AssemblyReference.cache
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.AssemblyInfoInputs.cache
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.AssemblyInfo.cs
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.csproj.CoreCompileInputs.cache
+C:\C#_Seminar_6_DZ\Dop_treygolnik\bin\Debug\net6.0\Dop_treygolnik.exe
+C:\C#_Seminar_6_DZ\Dop_treygolnik\bin\Debug\net6.0\Dop_treygolnik.deps.json
+C:\C#_Seminar_6_DZ\Dop_treygolnik\bin\Debug\net6.0\Dop_treygolnik.runtimeconfig.json
+C:\C#_Seminar_6_DZ\Dop_treygolnik\bin\Debug\net6.0\Dop_treygolnik.dll
+C:\C#_Seminar_6_DZ\Dop_treygolnik\bin\Debug\net6.0\Dop_treygolnik.pdb
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.dll
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\refint\Dop_treygolnik.dll
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.pdb
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\Dop_treygolnik.genruntimeconfig.cache
+C:\C#_Seminar_6_DZ\Dop_treygolnik\obj\Debug\net6.0\ref\Dop_treygolnik.dll
